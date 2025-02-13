@@ -1,0 +1,26 @@
+body{
+    background-color: #92dce5;
+}
+
+#bar{
+    text-align: center;
+    color: white;
+    background-color: grey;
+    padding: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#main-nav{
+    background-color:chocolate;
+}
+
+#main-nav li:hover{
+    background-color: aliceblue;
+}
+
+#main-nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+}
